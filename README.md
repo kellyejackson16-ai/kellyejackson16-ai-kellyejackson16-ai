@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Linux](https://img.shields.io/badge/Linux-Command%20Line-orange)
+![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity-red)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 # 👋 Hi, I'm Kellye Jackson  
 ### Cybersecurity Student • Ethical Hacking Enthusiast • Builder of Practical Security Tools
 
