@@ -10,6 +10,11 @@
 </div>
 
 ---
+![Python](https://img.shields.io/badge/Python-3.x-0d1117?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity-1f6feb?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-0d1117?style=for-the-badge)
+
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Linux](https://img.shields.io/badge/Linux-Command%20Line-orange)
