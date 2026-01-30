@@ -2,6 +2,15 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=250&section=header&text=Kellye%20Jackson&fontSize=60&fontColor=ffffff" />
 </p>
 
+<div align="center">
+
+### 🌙 Dark‑Theme Cybersecurity Portfolio  
+#### Clean • Minimal • Hacker‑Inspired
+
+</div>
+
+---
+
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Linux](https://img.shields.io/badge/Linux-Command%20Line-orange)
 ![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity-red)
